@@ -1,7 +1,7 @@
 import random
 print('Anup Diwakar')
-x = random.randint(1,100)
-y = random.randint(1,100)
+x = random.randint(0,101)
+y = random.randint(0,101)
 print(x)
 print(y)
 print('Sum =', x + y)
